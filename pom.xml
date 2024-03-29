@@ -22,7 +22,7 @@
 
     <!--Permet de créer des propriétés custom et de les utiliser ailleurs dans ce fichier-->
     <properties>
-        <lombok.version>1.18.24</lombok.version>
+        <lombok.version>1.18.30</lombok.version>
         <springBoot.version>3.0.0</springBoot.version>
         <springFoxSwagger.version>2.6.0</springFoxSwagger.version>
         <swagger-annotation.version>1.5.9</swagger-annotation.version>
